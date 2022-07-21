@@ -1,2 +1,2 @@
 # practice
-data by myself
+data by me
